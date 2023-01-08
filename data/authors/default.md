@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Manuel Sánchez
+avatar: /static/images/me.png
+occupation: Desarrollador Frontend
+company: webschuppen
+email: manuelsanchezweb@gmail.com
+twitter: https://twitter.com/manuelsandoble
+linkedin: https://www.linkedin.com/in/manusanchez2/
+github: https://github.com/manuelsanchezweb/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+¡Hola! Llevo desarrollando proyectos web desde hace varios años y desde hace poco compagino mi trabajo en empresa con la enseñanza. He creado un par de cursos en Udemy e intento subir contenido de forma periódica a YouTube.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Espero que te guste el contenido que ves en mi blog. Por ahora me decido a escribir sobre temas que considero interesantes para frontend, como son algunos trucos para mejorar el rendimiento, nuevos frameworks, buenas prácticas, etc.

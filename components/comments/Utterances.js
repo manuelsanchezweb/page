@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useCallback } from 'react'
 import { useTheme } from 'next-themes'
+import { useCallback, useEffect, useState } from 'react'
 
 import siteMetadata from '@/data/siteMetadata'
 
@@ -43,7 +43,7 @@ const Utterances = () => {
   // Added `relative` to fix a weird bug with `utterances-frame` position
   return (
     <div className="pt-6 pb-6 text-center text-gray-700 dark:text-gray-300">
-      {enableLoadComments && <button onClick={LoadComments}>Load Comments</button>}
+      {enableLoadComments && <button onClick={LoadComments}>Cargar comentarios</button>}
       <div className="utterances-frame relative" id={COMMENTS_ID} />
     </div>
   )

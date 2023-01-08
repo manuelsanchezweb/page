@@ -1,22 +1,22 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
-  language: 'en-us',
+  title: '⭐️ Blog Manuel Sánchez Web',
+  author: 'Manuel Sánchez',
+  headerTitle: 'manuelsanchezweb',
+  description: 'Descubre qué es lo último que he publicado',
+  language: 'es-ES',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://manuelsanchezweb.vercel.app/',
+  siteRepo: 'https://github.com/manuelsanchezweb/page',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/me.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  email: 'manuelsanchezweb@gmail.com',
+  github: 'https://github.com/manuelsanchezweb/',
+  twitter: 'https://twitter.com/manuelsandoble',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  youtube: 'https://www.youtube.com/channel/UCX3IE_OjG20p_AwbX06YAEg',
+  linkedin: 'https://www.linkedin.com/in/manusanchez2/',
+  locale: 'es-ES',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
@@ -55,7 +55,7 @@ const siteMetadata = {
       // Place the comment box above the comments. options: bottom, top
       inputPosition: 'bottom',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
-      lang: 'en',
+      lang: 'es',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
